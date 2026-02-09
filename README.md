@@ -65,9 +65,9 @@ project/
 1.  **Create the `.env` file**:
     Copy the example configuration file to create your local config.
     ```bash
-    cp project/.env.example project/.env
+    cp project/.env project/.env
     # On Windows PowerShell:
-    Copy-Item project/.env.example project/.env
+    Copy-Item project/.env project/.env
     ```
 
 2.  **Edit `.env`**:
